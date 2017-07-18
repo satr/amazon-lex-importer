@@ -1,7 +1,12 @@
 # amazon-lex-importer
 Import an Amazon Lex bot
 
-Dependencies: aws-java-sdk-lexmodelbuilding
+It is implemented as one file with a reason - to be easier used by those who are not familiar with Java environment.
+
+Dependencies:
+```
+aws-java-sdk-lexmodelbuilding
+```
 HOWTO add dependency: https://youtu.be/EAxiratt5_k?t=3m10s
 
 The import is performed from a json-file, where an Amazon Lex bot is exported by the util
