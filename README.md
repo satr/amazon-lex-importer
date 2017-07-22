@@ -9,6 +9,8 @@ aws-java-sdk-lexmodelbuilding
 ```
 HOWTO add dependency: https://youtu.be/EAxiratt5_k?t=3m10s
 
+HOWTO Connecting to the Amazon Lex model building service with a client from Java SDK: https://youtu.be/31vevfYPW_U
+
 The import is performed from a json-file, where an Amazon Lex bot is exported by the util
 https://github.com/awslabs/amazon-lex-bot-export
 
